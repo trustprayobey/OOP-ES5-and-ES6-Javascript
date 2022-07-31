@@ -206,3 +206,4 @@ const mag1 = new Magazine('Mag one', 'Brian', '2022', 'july')
 
 
 console.log(mag1.getSummary())
+//notes
